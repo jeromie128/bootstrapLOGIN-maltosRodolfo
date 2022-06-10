@@ -1,0 +1,211 @@
+
+
+
+.topText{
+    background-color: #AEE1E1;
+    padding-left: 1vw;
+}
+
+.container-fluid img{
+    width: 18vw;
+    height: 4vw;
+    margin-top: .1vw;
+    margin-bottom: 1.5vw;
+}
+
+.carousel-inner img{
+    width: 90%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    border-radius: 1.5vw;
+}
+
+.btn-group{
+    margin-left: 42.3vw;
+}
+
+.btn-group button{
+    border: none;
+    color: black;
+}
+
+.btn-group button:hover{
+    background-color: #AEE1E1;
+}
+
+.container{
+    margin-top: 1.7vw;
+    margin-bottom: 5vw;
+}
+
+.col-4 {
+    display: flex;
+    background-color: #D3E0DC;
+    border-radius: 1vw;
+    
+}
+.col-4 img{
+    position: relative;
+    right: 0vw;
+    line-height: 0;
+    opacity: 0.2;
+    margin-top: 1.3vw;
+}
+.col-4 h5{
+    position: relative;
+    right: 1vw;
+    margin-top: 1.5vw;
+}
+
+.col-4 button{
+    position: relative;
+    left: .9vw;
+    border: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 1vw;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 1vw;
+    width: 32vw;
+    color: black;
+    background-color: #D3E0DC;
+}
+
+.col-4 button:hover{
+    background-color: #AEE1E1;
+}
+.col-4 a{
+    position: relative;
+    left: .9vw;
+    border: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 1vw;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 1vw;
+    width: 32vw;
+    color: black;
+    background-color: #D3E0DC;
+}
+
+.col-4 a p{
+    margin-top: 2.1vw;
+}   
+
+.col-4 a:hover{
+    background-color: #AEE1E1;
+}
+
+.modal-body{
+    display: contents;
+}
+
+#facultyMessage p{
+    margin-top: 1vw;
+    margin-left: 2vw;
+}
+
+#logIn-btn{
+    width: 73%;
+    position: relative;
+    margin: auto;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+    background-color: #AEE1E1;
+    border: 1;
+    border-color: #AEE1E1;
+    color: rgba(0, 0, 0, 0.425);
+}
+
+#logIn-btn:hover{
+    background-color: #0d6efd;
+}
+
+#logIn-info p{
+    padding-top: 2vw;
+    padding-left: 2vw;
+    width: 90%;
+    position: relative;
+    margin: auto;
+}
+
+#logIn-info input{
+    width: 89%;
+    outline: none;
+}
+
+#exampleModalToggle{
+    width: 25%;
+    margin-left: 37%;
+}
+
+#signup-btn{
+    width:73%;
+    position: relative;
+    margin: auto;
+    margin-bottom: 2vw;
+}
+
+#signUp-info input{
+    width: 95.5%;
+    outline: none;
+}
+#signUp-info{
+    width: 80%;
+    position: relative;
+    padding-top: 1vw;
+    margin: auto;
+    padding-left: 1.2vw;
+}
+
+#signUp-btn{
+    width: 73%;
+    position: relative;
+    margin: auto;
+    margin-top: 0vw;
+    margin-bottom: 1vw;
+    background-color: #AEE1E1;
+    border: 1;
+    border-color: #AEE1E1;
+    color: rgba(0, 0, 0, 0.425);
+}
+
+#signUp-btn:hover{
+    background-color: #0d6efd;
+}
+
+#logInsignup-btn{
+    width:73%;
+    position: relative;
+    margin: auto;
+    margin-top: 2vw;
+    margin-bottom: .5vw;
+}
+
+#logInsignupG-btn{
+    width:73%;
+    position: relative;
+    margin: auto;
+    margin-bottom: 2vw;
+}
+
+#signupGooglebind-btn{
+    width: 73%;
+    position: relative;
+    margin: auto;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+    background-color: #AEE1E1;
+    border: 1;
+    border-color: #AEE1E1;
+    color: rgba(0, 0, 0, 0.425);
+}
+
+#signupGooglebind-btn:hover{
+    background-color: #0d6efd;
+}
+
+
+
+
+
+
